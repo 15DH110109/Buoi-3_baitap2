@@ -1,0 +1,9 @@
+D:\CNTT\Lập trình mạng\buoi 3\Bai 2 (oan tu xi) Client\bin\Debug\Bai 2 (oan tu xi) Client.exe.config
+D:\CNTT\Lập trình mạng\buoi 3\Bai 2 (oan tu xi) Client\bin\Debug\Bai 2 (oan tu xi) Client.exe
+D:\CNTT\Lập trình mạng\buoi 3\Bai 2 (oan tu xi) Client\bin\Debug\Bai 2 (oan tu xi) Client.pdb
+D:\CNTT\Lập trình mạng\buoi 3\Bai 2 (oan tu xi) Client\obj\Debug\Bai 2 (oan tu xi) Client.csprojResolveAssemblyReference.cache
+D:\CNTT\Lập trình mạng\buoi 3\Bai 2 (oan tu xi) Client\obj\Debug\Bai_2__oan_tu_xi__Client.Form1.resources
+D:\CNTT\Lập trình mạng\buoi 3\Bai 2 (oan tu xi) Client\obj\Debug\Bai_2__oan_tu_xi__Client.Properties.Resources.resources
+D:\CNTT\Lập trình mạng\buoi 3\Bai 2 (oan tu xi) Client\obj\Debug\Bai 2 (oan tu xi) Client.csproj.GenerateResource.Cache
+D:\CNTT\Lập trình mạng\buoi 3\Bai 2 (oan tu xi) Client\obj\Debug\Bai 2 (oan tu xi) Client.exe
+D:\CNTT\Lập trình mạng\buoi 3\Bai 2 (oan tu xi) Client\obj\Debug\Bai 2 (oan tu xi) Client.pdb
